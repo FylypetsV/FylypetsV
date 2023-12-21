@@ -24,7 +24,7 @@
 | [Лабораторна робота 2](2_lab/readme.md)                           |:heavy_check_mark:|
 | [Лабораторна робота 3](3_lab/readme.md)                           |:heavy_check_mark:|
 | [Лабораторна робота 4](4_lab/readme.md)                           |:heavy_check_mark:|
-| [Лабораторна робота 5]()  |:heavy_check_mark:|
+| [Лабораторна робота 5](https://fylypetsv.github.io/FylypetsV/)  |:heavy_check_mark:|
 
 
 ---
