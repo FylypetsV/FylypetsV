@@ -19,11 +19,11 @@
 
 | Лабораторна робота | Статус виконання |
 |-------------------------------------------|---------------|
-| [Вступ, робота з Markdown](init/README.md)                        |:heavy_check_mark:|
-| [Лабораторна робота 1](01_lab/README.md)                          |:heavy_check_mark:|
-| [Лабораторна робота 2](2_lab/README.md)                           |:heavy_check_mark:|
-| [Лабораторна робота 3](3_lab/README.md)                           |:heavy_check_mark:|
-| [Лабораторна робота 4](4_lab/README.md)                           |:heavy_check_mark:|
+| [Вступ, робота з Markdown](init/readme.md)                        |:heavy_check_mark:|
+| [Лабораторна робота 1](01_lab/readme.md)                          |:heavy_check_mark:|
+| [Лабораторна робота 2](2_lab/readme.md)                           |:heavy_check_mark:|
+| [Лабораторна робота 3](3_lab/readme.md)                           |:heavy_check_mark:|
+| [Лабораторна робота 4](4_lab/readme.md)                           |:heavy_check_mark:|
 | [Лабораторна робота 5]()  |:heavy_check_mark:|
 
 
